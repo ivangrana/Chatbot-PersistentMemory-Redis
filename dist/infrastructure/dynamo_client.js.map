@@ -1,0 +1,1 @@
+{"version":3,"file":"dynamo_client.js","sourceRoot":"","sources":["../../src/infrastructure/dynamo_client.ts"],"names":[],"mappings":";;AACA,8DAA0D;AAC1D,6CAA0C;AAE1C,MAAM,YAAY,GAAG,IAAI,gCAAc,CAAC,EAAE,MAAM,EAAE,eAAM,CAAC,GAAG,CAAC,MAAM,EAAE,CAAC,CAAC;AAEvE,kBAAe,YAAY,CAAC"}
